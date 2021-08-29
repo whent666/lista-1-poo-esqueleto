@@ -3,6 +3,7 @@
 Objetivos: 
 * Criar um programa que consiga calcular o coeficiente angular e linear de uma reta. O usuário deverá entrar com as coordenadas dos pontos P1 e P2.
 * Para entrar com os valores, cria uma GUI simples com JavaFX
+* Este repositório apresenta o projeto Esqueleto!
 
 Bibliotecas utilizadas:
 * JavaFX
